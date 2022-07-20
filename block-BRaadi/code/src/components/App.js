@@ -15,3 +15,6 @@ class App extends React.Component {
 }
 
 export default App;
+
+//add error boundary here
+// Error boundary is done in the production built
